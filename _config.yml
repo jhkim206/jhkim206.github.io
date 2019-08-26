@@ -116,10 +116,10 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-       url: "mailto:jhkim206@snu.ac.kr"
+      # url: "mailto:jhkim206@snu.ac.kr"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-       url: "https://appmath.wordpress.com"
+      # url: "https://appmath.wordpress.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
